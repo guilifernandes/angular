@@ -1,0 +1,38 @@
+{
+  "login": [
+    {
+      "id": 1,
+      "usuário": "Vitória Pinho",
+      "email": "Vitoria.222@gmail.com",
+      "senha": "admin"
+    },
+    {
+      "id": 2,
+      "usuário": "João Junior",
+      "email": "joaojunior@gmail.com",
+      "senha": "admin123"
+    },
+    {},
+    {
+      "id": 3,
+      "usuário": "Helena",
+      "email": "Helenaalves@gmail.com",
+      "senha": "admin1234"
+    },
+    {
+      "id": 32234
+    },
+    {
+      "id": 32235
+    },
+    {
+      "id": 32236
+    },
+    {
+      "id": 32237
+    },
+    {
+      "id": 32238
+    }
+  ]
+}
